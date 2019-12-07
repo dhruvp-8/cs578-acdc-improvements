@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9246e85-5a7f-4360-ad16-7315201987a5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ext-tools/mallet-2.0.7/src/cc/mallet/types/CrossValidationIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/ext-tools/mallet-2.0.7/src/cc/mallet/types/CrossValidationIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,6 +54,24 @@
             <path>
               <item name="cs578-acdc-improvements" type="b2602c69:ProjectViewProjectNode" />
               <item name="cs578-acdc-improvements" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cs578-acdc-improvements" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs578-acdc-improvements" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="softarch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cs578-acdc-improvements" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs578-acdc-improvements" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="softarch" type="462c0819:PsiDirectoryNode" />
+              <item name="arcade" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cs578-acdc-improvements" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs578-acdc-improvements" type="462c0819:PsiDirectoryNode" />
               <item name="subject_systems" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -64,7 +82,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575688905696" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575689349560" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
@@ -78,6 +96,35 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="AcdcWithSmellDetection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.usc.softarch.arcade.AcdcWithSmellDetection" />
+      <module name="cs578-acdc-improvements" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/../../../Arcade/tomcat-7/src $PROJECT_DIR$/../../../Arcade/tomcat-7/output/ACDC output/build/lib" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.usc.softarch.arcade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="edu.usc.softarch.arcade.AcdcWithSmellDetection" />
+      <module name="cs578-acdc-improvements" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/../../../CSCI\ 578/Project/tomcat-7/src $PROJECT_DIR$/../../../CSCI\ 578/Project/tomcat-7/output/ACDC output/build/lib" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AcdcWithSmellDetection" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -101,12 +148,12 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Messages" weight="0.32959184" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
