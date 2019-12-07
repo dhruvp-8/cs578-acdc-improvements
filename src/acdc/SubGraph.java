@@ -351,8 +351,23 @@ public class SubGraph extends Pattern {
 					DefaultMutableTreeNode curr =
 						(DefaultMutableTreeNode) ic.next();
 					fathers = findSources(curr, vTree);
-					if (!both.containsAll(fathers))
+					
+					/*
+					 This is the place where we tweak the logic to change what gets added to falseOnes for eventually
+					 removing them from coveredset.
+					 */
+					Iterator<String> fatherItr = fathers.iterator();
+					int counter = 0;
+					while(fatherItr.hasNext()){
+						if(!both.contains(fatherItr.next())){
+							counter++;
+						}
+					}
+
+					if (counter > 1){
 						falseOnes.add(curr);
+					}
+					
 				}
 
 			}
