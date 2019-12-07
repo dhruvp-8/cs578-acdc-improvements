@@ -3,7 +3,7 @@
 Team Member - Akash Bajaj (akashbaj@usc.edu), Dhruv Patel (dhruvrpa@usc.edu), Sumukh Bharadwaj Venkatesha Murthy (sumukhbh@usc.edu)
 
 This repository is for the final project for course CSCI578(Software Architecture). The goal of the project was to improve the choosen architecture discovery techniques to detect security desicion and cluster the files/procedure involved in the security decision to be clustered in same cluster. 
-Please refer to the documentation (ACDC_Improvement_CSCI578.pdf) for detailed documentation for the project.
+Please refer to the documentation (Software_Architecture_Final_Project.pdf)[https://github.com/dhruvp-8/cs578-acdc-improvements/blob/master/Software%20Architecture%20Project%20-%20ACDC_Improvement.pdf] for detailed documentation for the project.
 
 # Steps to run the project
 
