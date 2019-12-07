@@ -76,7 +76,12 @@ public class SubGraph extends Pattern {
 			// add the sortable object to the sarray
 			my_array.add(s_before);
 		}
-		Collections.sort(my_array);
+		
+		/*
+		   This is the place we tweak the logic to reverse sort the collection from the number of higher targets 
+		   to number of lower targets
+		 */
+		Collections.sort(my_array, Collections.reverseOrder());
 
 		for (int i = 0; i < my_array.size(); i++) {
 
