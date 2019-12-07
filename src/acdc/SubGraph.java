@@ -143,11 +143,27 @@ public class SubGraph extends Pattern {
 					ht.remove(tentativeDominator);
 				}
 
-				// Create a new subsystem node
-				Node ssNode = new Node(tentativeDominator.getBaseName() + ".ss", "Subsystem");
-				if (!vModified.contains(ssNode))
-				{
-					vModified.add(ssNode);
+				
+				/*
+					This is the place where we add the base reduction logic in our code
+				*/
+				Node tempBaseName = new Node(tentativeDominator.getBaseName(), "Unknown");
+				Node previousNode = new Node(tempBaseName.getBaseName() + ".ss", "Subsystem");
+
+				Node ssNode;
+
+
+				if (vModified.contains(previousNode)){
+					ssNode = previousNode;
+				} else{
+					ssNode = new Node(tentativeDominator.getBaseName() + ".ss", "Subsystem");
+					if(ssNode.getName().equals("org.apache.tomcat.util.http.fileupload.disk.ss")) {
+						System.out.println("Hello World");
+					}
+					if (!vModified.contains(ssNode))
+					{
+						vModified.add(ssNode);
+					}
 				}
 
 				IO.put("Cluster Node " + ssNode.getName() + " was created and contains :", 2);
