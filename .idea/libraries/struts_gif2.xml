@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="struts-gif2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.10.1/src/apps/showcase/src/main/webapp/images/struts-gif.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

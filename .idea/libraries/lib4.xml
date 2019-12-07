@@ -1,0 +1,75 @@
+<component name="libraryTable">
+  <library name="lib4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/spring-context-4.1.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/xmlpull-1.1.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/spring-beans-4.1.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/javassist-3.20.0-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/spring-test-4.1.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/velocity-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/asm-commons-5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/jcommander-1.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/google-gxp-0.2.4-beta.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/tiles-request-freemarker-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/jackson-core-2.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/commons-fileupload-1.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/tiles-request-api-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/spring-aop-4.1.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/bsh-2.0b4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/xstream-1.4.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/commons-beanutils-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/freemarker-2.3.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/tiles-template-3.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/commons-lang3-3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/slf4j-api-1.7.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/snakeyaml-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/validation-api-1.1.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/tiles-ognl-3.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/plexus-utils-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/org.apache.felix.framework-4.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/org.apache.felix.shell.tui-1.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/dwr-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/xpp3_min-1.1.4c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/json-lib-2.3-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/org.osgi.compendium-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/tiles-request-jsp-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/jackson-annotations-2.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/tiles-api-3.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/org.osgi.core-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/spring-expression-4.1.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/log4j-api-2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/asm-tree-5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/tiles-core-3.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/tiles-request-servlet-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/classworlds-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/org.apache.felix.shell-1.4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/google-collections-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/tiles-jsp-3.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/tiles-el-3.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/jcl-over-slf4j-1.7.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/ognl-3.1.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/spring-core-4.1.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/tiles-freemarker-3.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/commons-logging-1.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/spring-web-4.1.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/commons-digester-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/asm-5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/tiles-servlet-3.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/tiles-autotag-core-runtime-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/plexus-container-default-1.0-alpha-10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/oval-1.31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/juli-6.0.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/sitemesh-2.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/commons-lang-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/jackson-databind-2.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/org.apache.felix.main-4.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/ezmorph-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.8/lib/hamcrest-core-1.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

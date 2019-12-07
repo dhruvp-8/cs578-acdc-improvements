@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="docs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.10.1/docs/docs/quickstart_maven2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.5.10.1/docs/docs/quickstart.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

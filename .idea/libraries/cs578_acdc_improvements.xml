@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="cs578-acdc-improvements">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/edu.usc.softarch.arcade.util.ldasupport.PipeExtractor.jar!/" />
+      <root url="jar://$PROJECT_DIR$/edu.usc.softarch.arcade.PkgsWithSmellDetection.jar!/" />
+      <root url="jar://$PROJECT_DIR$/scripts.zip!/" />
+      <root url="jar://$PROJECT_DIR$/edu.usc.softarch.arcade.decay.BatchDecayMetricsAnalyzer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/edu.usc.softarch.arcade.clustering.BatchClusteringEngine.jar!/" />
+      <root url="jar://$PROJECT_DIR$/edu.usc.softarch.arcade.AcdcWithSmellDetection.jar!/" />
+      <root url="jar://$PROJECT_DIR$/edu.usc.softarch.arcade.metrics.BatchSystemEvo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

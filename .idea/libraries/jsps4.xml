@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jsps4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/subject_systems/Struts2/src/struts-2.3.32/src/plugins/embeddedjsp/src/test/resources/jsps.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

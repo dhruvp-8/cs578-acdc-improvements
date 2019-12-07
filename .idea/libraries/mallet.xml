@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mallet">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/mallet/mallet-deps.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/mallet/mallet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
