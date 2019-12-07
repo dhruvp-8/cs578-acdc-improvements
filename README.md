@@ -13,3 +13,7 @@ Please refer to the documentation (ACDC_Improvement_CSCI578.pdf) for detailed do
 4. Build the project by going to Build -> Build Project
 5. Edit the Run Configurations to add the arguments required in the ACDCWithSmellDetection.java file (eg., <ABSOLUTE_PATH>/tomcat-7/src <ABSOLUTE_PATH>/tomcat-7/output/ACDC output/build/lib )
 6. Run the ACDCWithSmellDetection.java file
+
+# Important Note
+
+Please go through the commits to understand the modifications that we have incorporated in the existing codebase.
